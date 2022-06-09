@@ -47,3 +47,17 @@ nav a:hover {
 footer h3 a:hover {
     text-decoration: underline;
 }
+
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}
+
+footer p {
+    text-size-adjust: 1.2em;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}
